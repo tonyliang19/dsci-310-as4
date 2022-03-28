@@ -1,0 +1,29 @@
+{
+  "jbook_example": {
+    "largest-sd-prov": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "largest-sd-prov",
+          "mime_prefix": ""
+        }
+      },
+      "data": {
+        "text/plain": "'Saskatchewan'"
+      }
+    },
+    "horses-tbl": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "horses-tbl",
+          "mime_prefix": ""
+        }
+      },
+      "data": {
+        "text/plain": "<pandas.io.formats.style.Styler at 0x1ca20f58460>",
+        "text/html": "<style type=\"text/css\">\n</style>\n<table id=\"T_bae81\">\n  <thead>\n    <tr>\n      <th id=\"T_bae81_level0_col0\" class=\"col_heading level0 col0\" >Province</th>\n      <th id=\"T_bae81_level0_col1\" class=\"col_heading level0 col1\" >Std</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td id=\"T_bae81_row0_col0\" class=\"data row0 col0\" >Saskatchewan</td>\n      <td id=\"T_bae81_row0_col1\" class=\"data row0 col1\" >377265.575896</td>\n    </tr>\n    <tr>\n      <td id=\"T_bae81_row1_col0\" class=\"data row1 col0\" >Ontario</td>\n      <td id=\"T_bae81_row1_col1\" class=\"data row1 col1\" >266435.317269</td>\n    </tr>\n    <tr>\n      <td id=\"T_bae81_row2_col0\" class=\"data row2 col0\" >Alberta</td>\n      <td id=\"T_bae81_row2_col1\" class=\"data row2 col1\" >266063.191824</td>\n    </tr>\n    <tr>\n      <td id=\"T_bae81_row3_col0\" class=\"data row3 col0\" >Manitoba</td>\n      <td id=\"T_bae81_row3_col1\" class=\"data row3 col1\" >122403.871037</td>\n    </tr>\n    <tr>\n      <td id=\"T_bae81_row4_col0\" class=\"data row4 col0\" >Quebec</td>\n      <td id=\"T_bae81_row4_col1\" class=\"data row4 col1\" >111411.104370</td>\n    </tr>\n    <tr>\n      <td id=\"T_bae81_row5_col0\" class=\"data row5 col0\" >New Brunswick</td>\n      <td id=\"T_bae81_row5_col1\" class=\"data row5 col1\" >22019.494316</td>\n    </tr>\n    <tr>\n      <td id=\"T_bae81_row6_col0\" class=\"data row6 col0\" >Nova Scotia</td>\n      <td id=\"T_bae81_row6_col1\" class=\"data row6 col1\" >19879.253759</td>\n    </tr>\n    <tr>\n      <td id=\"T_bae81_row7_col0\" class=\"data row7 col0\" >British Columbia</td>\n      <td id=\"T_bae81_row7_col1\" class=\"data row7 col1\" >14945.664171</td>\n    </tr>\n    <tr>\n      <td id=\"T_bae81_row8_col0\" class=\"data row8 col0\" >P.E.I.</td>\n      <td id=\"T_bae81_row8_col1\" class=\"data row8 col1\" >11355.747559</td>\n    </tr>\n  </tbody>\n</table>\n"
+      }
+    }
+  }
+}
